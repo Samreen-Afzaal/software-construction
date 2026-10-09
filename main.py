@@ -5,3 +5,5 @@ user_name = input("Enter your name: ")
 
 # Print a personalized greeting message
 print("Hello, " + user_name + "! Nice to meet you.")
+print("Hello, " + user_name + "! Nice to meet you.")
+print("Hello, " + user_name + "! Nice to meet you.")
